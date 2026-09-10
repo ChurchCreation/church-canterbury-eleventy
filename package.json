@@ -1,0 +1,14 @@
+{
+  "name": "church-canterbury-eleventy",
+  "version": "1.0.0",
+  "description": "St Botolph's, Barwick — a free church website template for Eleventy.",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.0.0"
+  }
+}
